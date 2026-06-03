@@ -1,0 +1,6 @@
+{
+  "name": "Calculator Vault",
+  "description": "A premium dark-themed functional calculator that hides a secure personal vault for photos, videos, and folders behind a secret PIN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
